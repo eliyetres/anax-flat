@@ -4,11 +4,8 @@ titleBreadcrumb: Home
 A website using Anax Flat
 ===============================
 
-Hi there.
+Jag heter Elin och pluggar kognitionsvetenskap på Göteborgs Universitet.
 
-Nice of you to stop by.
+![Elin](http://www.student.bth.se/~elhb16/dbwebb-kurser/htmlphp/me/kmom06/me6/img/me.jpg)
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
 
-Cheers and happy building of websites,  
-/Mikael

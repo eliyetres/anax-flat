@@ -1,10 +1,11 @@
-About this site
+Om mig
 ==============================================
 
-The primary focus of this site is to:
+Jag heter Elin och pluggar kognitionsvetenskap på Göteborgs Universitet.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Jag hoppas kunna fortsätta på en master i språkteknologi när jag är klar med min kanditat, men för det behöver jag fler högskolepoäng i programmering. Tidigare har jag läst 7.5hp i Haskell på GU, men kursen var dåligt upplagd. Just nu läser jag Webbprogrammering utöver mitt program, som är på heltid. 
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Jag gillade första läsåret på BTH så jag fortsatte med nästa kurspaket. Just nu läser jag sista året på min kanditat i Göteborg.
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+
+![Github](https://avatars1.githubusercontent.com/u/21308536?s=40&v=4) [Github](https://github.com/eliyetres/hello)
