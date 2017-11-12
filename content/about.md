@@ -8,4 +8,6 @@ Jag hoppas kunna fortsätta på en master i språkteknologi när jag är klar me
 Jag gillade första läsåret på BTH så jag fortsatte med nästa kurspaket. Just nu läser jag sista året på min kanditat i Göteborg.
 
 
-![Github](https://avatars1.githubusercontent.com/u/21308536?s=40&v=4) [Github](https://github.com/eliyetres/hello)
+![Github-img](https://avatars1.githubusercontent.com/u/21308536?s=40&v=4) [Github - hello](https://github.com/eliyetres/hello)
+
+[Github - anax-flat](https://github.com/eliyetres/anax-flat-theme)

@@ -15,14 +15,14 @@ return [
         "items" => [
 
             "report" => [
-                "text"  => t("Report"),
+                "text"  => t("Redovisningar"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
 
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om mig"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
@@ -31,7 +31,7 @@ return [
 
 
 
-/*
+
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -57,7 +57,7 @@ return [
             ],
         ],
     ],
-*/
+
 
 
     /**
