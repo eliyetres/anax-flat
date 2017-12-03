@@ -20,29 +20,34 @@ return [
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
-
             "about" => [
                 "text"  => t("Om mig"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
-
             "grid" => [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Grid")
             ],
-
             "typography" => [
                 "text"  => t("Typography"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typo stuff")
             ],
+            "analysis" => [
+                "text"  => t("Färganalys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Färganalys"),
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme selector")
+            ],
         ],
     ],
-
-
-
 
     // Used as menu together with responsive menu
     // Name of this menu
@@ -72,6 +77,24 @@ return [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typo stuff")
+            ],
+
+            "färganalys" => [
+                "text"  => t("Färganalys"),
+                "url"   => $this->di->get("url")->create("400_colorscheme"),
+                "title" => t("Färganalys"),
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme selector")
             ],
         ],
     ],
