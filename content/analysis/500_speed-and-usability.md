@@ -44,3 +44,5 @@ DI  innehåller en hel del information och när man scrollar neråt så laddas m
 Sidan för DN innehåller en del bilder, mycket text och scripts. Allt verkar dock delvis vara komprimerat redan, men enligt PageSpeed är det möjligt att kompirmera alla bilder ca 22%. Den varnar för att sidan har 6 blockerande script och att dessa skulle kunnas kompirmeras med 69%.
 
 [FIGURE src="image/dn.se.png?w=400&co=8" class="center"] 
+
+[Länk till stylesheet](img/Data.xlsx)
