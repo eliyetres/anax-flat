@@ -4,36 +4,12 @@ published: "2017-12-12"
 category:
     - dagens bild
 ...
-Dbwebbisar hoppa omkring bland träden
+Bild 2
 ==================================
 
-<figure class="figure right">
-<a href="image/dbwebbisar.jpg"><img src="image/dbwebbisar.jpg?w=200&h=150&a=0,20,20,50&cf" alt=""/></a>
+Bilden är tagen med Nikon d90 och ett fast 50.mm objektiv.
+Inställningarna är 50.0mm med f/1.8, 1/4000s med ISO 500 utan blixt.
 
-</figure>
+[FIGURE src="image/bild-2.jpg?w=600&h=200&=q80&sharpen&crop-to-fit" class="center"]
 
-Se hur de små dbwebbisarna hoppar runt i trädet.
-
-
-<!--more-->
-
-
-
-Var kommer de ifrån? {#var}
------------------------------------
-
-<figure class="figure">
-<a href="image/dbwebbisar.jpg"><img src="image/dbwebbisar.jpg?w=700" alt="Här är en liten del av den större planschen."/></a>
-<figcaption markdown=1>Här är en liten del av den större planschen.</figcaption>
-</figure>
-
-Det är [Anna på Montage](http://montage.se/) som ritade dem en gång i tiden till en plansch.
-
-Planschen ser i sin helhet ut så här, klicka på den för att komma till bilden som fungerar utmärkt som bakgrundsbild på din desktop dator.
-
-<figure class="figure">
-<a href="https://dbwebb.se/img/dbwebb.jpg"><img src="https://dbwebb.se/img/dbwebb.jpg?w=700" alt="Den stora planschen."/></a>
-<figcaption markdown=1>Den stora planschen.</figcaption>
-</figure>
-
-Håll till godo!
+Här visas bilden 600px bred, 200px hög kvaliteten är 80, bilden har gjorts skarpare och beskurits med "crop to fit".
