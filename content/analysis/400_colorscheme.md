@@ -12,6 +12,8 @@ Sidans färger är svart och vitt med rött som accentfärg. Enligt kurslitterat
 </tr>
 </table>
 
+[FIGURE src="image/dn.se.png?w=400&co=8" class="center"] 
+
 DI
 ---------------------
 Färgerna som används är svart, vitt och rött. Rött anses vara en dramatisk färg. Det skrivs även om att färgen representerar passion eller starka känslor. Börsnotertingarna ligger i den mörkare röda färgen och resten av delarna på sidan har mer dämpade röda nyanser.
@@ -23,6 +25,8 @@ Typsnittet är Helvetica Neue, sans-serf, vilket är samma för både rubrikerna
 <td style="height: 50px; width: 50px; background-color: #FFFFFF">
 </tr>
 </table>
+
+[FIGURE src="image/di.png?w=400&co=8" class="center"] 
 
 metro
 ---------------------
@@ -36,3 +40,5 @@ Färgpaletten är vitt, svart och grönt som accentfärg. Deta är bara dessa f�
 </table>
 
  Jag valde de sidorna jag använder, mest bortsett från sociala medier. Det var först när jag var klar med analysen som jag insåg att alla sidor innehöll nyhetsinformation. Det gemensamma alla sidorna hade var att de främst använde färgerna svart och vitt till bakgrund och text, samt endast en ytterligare färg som accent, ibland en ljusare eller mörkare nyans av samma färg.
+
+[FIGURE src="image/metro.png?w=400&co=8" class="center"] 

@@ -36,15 +36,27 @@ return [
                 "title" => t("Typo stuff")
             ],
             "analysis" => [
-                "text"  => t("Färganalys"),
+                "text"  => t("Analysis"),
                 "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Färganalys"),
+                "title" => t("Analysis"),
             ],
 
             "theme" => [
                 "text"  => t("Theme"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme selector")
+            ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images")
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
             ],
         ],
     ],
@@ -95,6 +107,18 @@ return [
                 "text"  => t("Theme"),
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("Theme selector")
+            ],
+            
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images")
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
             ],
         ],
     ],

@@ -12,5 +12,6 @@ return [
     //"staticBaseUrl" => null,
     //"scriptName"    => null,
     //"urlType"       => self::URL_CLEAN,
+    "urlType"       => \Anax\Url\Curl::URL_CLEAN,
 
 ];
