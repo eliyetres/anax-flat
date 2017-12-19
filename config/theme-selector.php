@@ -66,5 +66,45 @@ return [
             "class"      => "fun",
             "stylesheets" => []
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "photo"       => [
+            "title"      => "Photo as background theme",
+            "class"      => "photo",
+            "stylesheets" => ["css/photo.min.css"]
+        ],
+
+        "texture"       => [
+            "title"      => "Texture as background theme",
+            "class"      => "texture",
+            "stylesheets" => ["css/texture.min.css"]
+        ],
+
+        "pictures"       => [
+            "title"      => "Different pictures in background theme",
+            "class"      => "pictures",
+            "stylesheets" => ["css/pictures.min.css"]
+        ],
+
+        "gradient"       => [
+            "title"      => "Gradient theme",
+            "class"      => "gradient",
+            "stylesheets" => ["css/gradient.min.css"]
+        ],
+        
+        "separator4" => "------------------------------------------------",
+
+        "principle 1"       => [
+            "title"      => "principle 1",
+            "class"      => "principle",
+            "stylesheets" => ["css/principle1.min.css"]
+        ],
+
+        "principle 2"       => [
+            "title"      => "principle 2",
+            "class"      => "principle",
+            "stylesheets" => ["css/principle2.min.css"]
+        ],
     ]
 ];

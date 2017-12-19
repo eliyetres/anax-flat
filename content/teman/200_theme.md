@@ -54,6 +54,7 @@ Colorful
 ---------------------
 
 Ett färglatt tema baserat på ett triadiskt färgschema som valdes genom att använda sidan paletton.com. Bakgrundsfärgen är rosa och meny och footern är gröna. Jag har använd gul som en accentfärg till bordern till huvudrubrikerna. Jag valde att dämpa färgmättnaden för att färgerna inte skulle bli så skrikiga.
+
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #FFF998">

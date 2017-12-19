@@ -41,10 +41,10 @@ return [
                 "title" => t("Analysis"),
             ],
 
-            "theme" => [
+            "teman" => [
                 "text"  => t("Theme"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Theme selector")
+                "url"   => $this->di->get("url")->create("teman"),
+                "title" => t("Theme")
             ],
 
             "images" => [
@@ -58,6 +58,8 @@ return [
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => t("Blogg")
             ],
+
+
         ],
     ],
 
@@ -103,10 +105,10 @@ return [
                 "title" => t("Färganalys"),
             ],
 
-            "theme" => [
+            "teman" => [
                 "text"  => t("Theme"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("Theme selector")
+                "url"   => $this->di->get("url")->create("teman"),
+                "title" => t("Teman")
             ],
             
             "images" => [
